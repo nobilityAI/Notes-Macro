@@ -1,0 +1,6 @@
+pyautogui
+mouseinfo
+pygetwindow
+pyscreeze
+pyperclip
+keyboard
