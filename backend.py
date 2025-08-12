@@ -333,10 +333,12 @@ class Macro:
                 if not self.newNoteCheck():
                     break
 
+            #Change how it outputs to document
             pyautogui.click(self.textEdit)
             pyautogui.write('"""')
             pyautogui.press('enter')
             self.mac_cmd('v')  # Paste
+            pyautogui.press('enter')
             pyautogui.write('"""')
             pyautogui.press('enter')
 
