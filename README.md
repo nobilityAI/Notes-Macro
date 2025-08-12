@@ -5,10 +5,13 @@ It can be customized to perform any macro by changing the steps in `_begin_macro
 ---
 
 ## Setup
+**Install**
+- Download src files
+- pip install requirements.txt
+- run macro.py
 
-You must select **four points** where the macro will click.  
+**Select the Four Points**
 
-**How to select a point:**
 1. Click the **`Select`** button for the target.
 2. Move your mouse so the cursor is over the desired location.
 3. Press **Enter** to save the coordinates.
