@@ -4,3 +4,4 @@ pygetwindow
 pyscreeze
 pyperclip
 keyboard
+pynput
